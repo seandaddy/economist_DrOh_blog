@@ -14,9 +14,9 @@ Let's illustrate comparative statics using the classic example of a firm maximiz
 
 $\pi(x,t)=R(x)−C(x)−tx$
 
-To find the profit-maximizing level of output, we take the first-order condition (FOC) by differentiating the profit function with respect to x and setting it to zero:
+To find the profit-maximizing level of output, we take the first-order condition(FOC) by differentiating the profit function with respect to x and setting it to zero:
 
-$\frac{d\pi}{dx}​=R'(x)−C'(x)−t=0$
+$\frac{d\pi}{dx}=R'(x)−C'(x)−t=0$
 
 This gives us the familiar condition that **marginal revenue** ($R'(x)$) must equal **marginal cost** ($C'(x)$) plus the tax:
 
@@ -24,7 +24,7 @@ $R'(x)=C'(x)+t$
 
 This equation defines the optimal output level, $x^∗(t)$, as a function of the tax rate t. To ensure this is a maximum, we check the second-order condition (SOC):
 
-$\frac{d^2\pi}{dx^2}​=R{''}(x)−C{''}(x)<0$
+$\frac{d^2\pi}{dx^2}=R{''}(x)−C{''}(x)<0$
 
 This condition implies that the marginal revenue curve must be flatter than the marginal cost curve at the optimal point.
 
