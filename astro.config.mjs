@@ -10,7 +10,7 @@ import remarkCollapse from "remark-collapse";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://example.com",
+  site: "https://sangyongoh.com",
   integrations: [mdx(), sitemap()],
 
   markdown: {
