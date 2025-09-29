@@ -2,7 +2,7 @@
 title: "Nobody understands that nobody understands supply and demand"
 description: "-"
 pubDate: "September 28, 2025"
-heroImage: "../../assets/blog-placeholder-3.jpg"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
 
 Paul Krugman often makes claims like something to the effect that nobody understands liquidity traps—expressing frustration with the views of his fellow economists.  But liquidity traps are a fairly esoteric issue.  Why is there so little outrage that nobody understands supply and demand?
@@ -25,5 +25,5 @@ Yes, it’s easy to mock those who know less than we do.  But when even high-le
 I’ve always thought that we teach economics the wrong way.  In the intro chapter to supply and demand, we have all these stupid examples of a frost hitting the orange crop in Florida, reducing supply and driving up prices.  Or heavy demand for Super Bowl tickets driving up prices.  Actually, this is the sort of stuff students *already know before taking economics*. And it’s exactly what they know after taking economics.  I firmly believe that the value added to most textbooks' supply and demand chapter is zero.  Students know no more S&D a year after taking the course than they knew going in. Maybe that’s inevitable; supply and demand, like quantum mechanics, is simply too hard for most people.
 
 But I’m not convinced.  QM is hard for me, but I understand supply and demand.  Maybe textbooks should reorient their coverage of the supply and demand chapter, putting less emphasis on the stuff that students already know going in and focusing far more heavily on the identification problem.  A good start would be to include 5 examples of experts' reasoning for a price change, so you could tell the students, “If you learn this stuff you be smarter than Nobel Prize winners in economics.”  Young people love the idea that they are smarter than old people.  They love challenges.
-# economics
 
+# economics
