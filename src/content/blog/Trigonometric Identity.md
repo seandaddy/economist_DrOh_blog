@@ -1,8 +1,8 @@
 ---
-title: '"<% tp.file.title %>"'
-description: '"-"'
-pubDate: September 28, 2025
-heroImage: '"../../assets/blog-placeholder-3.jpg"'
+title: "Trigonometric Identity"
+description: "A post about trigonometric identities"
+pubDate: "Sep 28 2025"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 Prove $1+cot^{2}\theta = csc^{2}\theta.$
 Prove $1+tan^{2}\theta=sce^{2}\theta.$
